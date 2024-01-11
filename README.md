@@ -159,8 +159,6 @@ Here are some ideas to get you started:
 <img src="https://wakatime.com/share/@devsabbirhossain/d6dcb7a2-5e70-49f5-ae5c-39405f92ffb3.png">
 <br/>
 <br/>
-<br/>
-<img src="https://wakatime.com/share/@devsabbirhossain/b43da924-55df-4315-897d-e4dd9fb798f9.png">
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devsabbirhossain&show_icons=true&locale=en&layout=compact" alt="devsabbirhossain" /></p>
 
