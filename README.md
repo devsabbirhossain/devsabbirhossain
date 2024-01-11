@@ -156,7 +156,7 @@ Here are some ideas to get you started:
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devsabbirhossain&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<img src="https://wakatime.com/share/@devsabbirhossain/d6dcb7a2-5e70-49f5-ae5c-39405f92ffb3.png">
+<figure><embed src="https://wakatime.com/share/@devsabbirhossain/fa055513-e97e-4fe9-9b56-0fca4b3322cb.svg"></embed></figure>
 <br/>
 <br/>
 
