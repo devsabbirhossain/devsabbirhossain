@@ -116,20 +116,20 @@ Here are some ideas to get you started:
       <br>Next.js
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dotnt" width="48" height="48" alt="dotnet" />
+        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="dotnet" />
       <br>ASP.NET
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="dart" />
-      <br>RabbitMQ
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="vscode" />
+      <br>VS Code
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sentry" width="48" height="48" alt="dart" />
-      <br>sentry
+        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="github" />
+      <br>Github
     </td>
     <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" width="48" height="48" alt="dart" />
-      <br>Celery
+        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="postman" />
+      <br>Postman
     </td>
     <td align="center" width="96">
         <img src="https://docusaurus.io/img/docusaurus_keytar.svg" width="48" height="48" alt="dart" />
