@@ -54,12 +54,12 @@ Here are some ideas to get you started:
       <br>JQuery
     </td>
           <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Rest API" />
-      <br>Docker
+        <img src="https://skillicons.dev/icons?i=dart" width="65" height="65" alt="dart" />
+      <br>Dart
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
-      <br>Nginx
+        <img src="https://skillicons.dev/icons?i=go" alt="icon" width="50" height="50" alt="go"/>
+      <br>Go
     </td>
   </tr>
 
@@ -120,6 +120,14 @@ Here are some ideas to get you started:
       <br>ASP.NET
     </td>
     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="flutter" />
+      <br>Flutter
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=django" width="40" height="40" alt="django" />
+      <br>Django
+    </td>
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="vscode" />
       <br>VS Code
     </td>
@@ -130,14 +138,6 @@ Here are some ideas to get you started:
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="postman" />
       <br>Postman
-    </td>
-    <td align="center" width="96">
-        <img src="https://docusaurus.io/img/docusaurus_keytar.svg" width="48" height="48" alt="dart" />
-      <br>Docusaurus
-    </td>
-    <td align="center" width="96">
-        <img src="https://bruhin.software/img/logos/pytest.svg" width="40" height="40" alt="dart" />
-      <br>Pytest
     </td>
   </tr>
  <tr>
