@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sabbir Hossain</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I+am+Sabbir+Hossain;I+am+expert+in+===+WordPress+DEVELOPMENT;I+have+experience+>+3+YEARS+IN+PROGRAMMING;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I+am+Sabbir+Hossain;I+am+expert+in+WordPress+DEVELOPMENT;I+have+experience+>+3+YEARS+IN+PROGRAMMING;)](https://git.io/typing-svg)
 
 <h3 align="center">A passionate Full Time WordPress Backend Developer, Laravel Developer and Part-Time Frontend Developer.</h3>
 
