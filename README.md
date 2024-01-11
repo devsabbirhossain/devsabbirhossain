@@ -24,34 +24,34 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" alt="icon" width="65" height="65" />
-      <br>C#
+        <img src="https://skillicons.dev/icons?i=html" alt="icon" width="65" height="65" alt="html"/>
+      <br>HTML
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://skillicons.dev/icons?i=css" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=css" alt="icon" width="65" height="65" alt="css"/>
       </a>
-      <br>Python
+      <br>CSS
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" alt="icon" width="65" height="65" />
-      <br>Javascript
+        <img src="https://skillicons.dev/icons?i=bootstrap" alt="icon" width="65" height="65" alt="bootstrap"/>
+      <br>Bootstrap
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" alt="icon" width="65" height="65" />
-      <br>C++
+        <img src="https://skillicons.dev/icons?i=tailwind" alt="icon" width="65" height="65" alt="tailwind"/>
+      <br>Tailwind
     </td>
        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=react" alt="icon" width="65" height="65" />
-      <br>Django
+        <img src="https://skillicons.dev/icons?i=react" alt="icon" width="65" height="65" alt="react"/>
+      <br>React
     </td>
        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vue" width="65" height="65" alt="GitHub" />
-      <br>Github
+        <img src="https://skillicons.dev/icons?i=vue" width="65" height="65" alt="GitHub" alt="vue"/>
+      <br>Vue.js
     </td>
           <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
-      <br>Rest API
+        <img src="https://skillicons.dev/icons?i=jquery" width="65" height="65" alt="jquery" />
+      <br>JQuery
     </td>
           <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Rest API" />
@@ -65,8 +65,8 @@ Here are some ideas to get you started:
 
   <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
+        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="php" />
+      <br>PHP
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
@@ -101,22 +101,23 @@ Here are some ideas to get you started:
       <br>ASP.NET
     </td>
   </tr>
+
    <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-      <br>Redis
+        <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="wordpress" />
+      <br>Wordpress
     </td>
         <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-      <br>Postman
+        <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="laravel" />
+      <br>Laravel
     </td>
             <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
+        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="nextjs" />
+      <br>Next.js
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
-      <br>Dart
+        <img src="https://skillicons.dev/icons?i=dotnt" width="48" height="48" alt="dotnet" />
+      <br>ASP.NET
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="dart" />
