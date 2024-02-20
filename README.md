@@ -10,7 +10,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [Store Timer](https://pluginever.com/plugins/wc-store-timer/)
+- 🔭 I’m currently working on [WC Ticket Manager](https://wordpress.org/plugins/wc-ticket-manager/)
 - 🌱 I’m currently learning **Go Language and Next.js**
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
