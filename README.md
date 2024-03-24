@@ -11,10 +11,10 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [WC Ticket Manager](https://wordpress.org/plugins/wc-ticket-manager/)
-- 🌱 I’m currently learning **Go Language and Next.js**
+- 🌱 I’m currently learning **Python and Next.js**
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about **WordPress, WooCommerce, Laravel, React.js**
+- 💬 Ask me about **WordPress, WooCommerce, Laravel, ReactJS, NextJS**
 - 📫 How to reach me: **sabbir2dev@gmail.com**
 - 😄 Pronouns: **sah-BEER ho-SAYN**
 - ⚡ Fun fact: ...
