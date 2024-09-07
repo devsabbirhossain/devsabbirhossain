@@ -23,15 +23,9 @@ Here are some ideas to get you started:
 
 <table>
   <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" alt="icon" width="65" height="65" alt="html"/>
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://skillicons.dev/icons?i=css" alt="icon" width="65" height="65" alt="css"/>
-      </a>
-      <br>CSS
+  <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="icon" width="65" height="65" alt="bootstrap"/>
+      <br>Sass
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=bootstrap" alt="icon" width="65" height="65" alt="bootstrap"/>
@@ -43,23 +37,11 @@ Here are some ideas to get you started:
     </td>
        <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=react" alt="icon" width="65" height="65" alt="react"/>
-      <br>React
+      <br>React.js
     </td>
        <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vue" width="65" height="65" alt="GitHub" alt="vue"/>
       <br>Vue.js
-    </td>
-          <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="65" height="65" alt="jquery" />
-      <br>JQuery
-    </td>
-          <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dart" width="65" height="65" alt="dart" />
-      <br>Dart
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=go" alt="icon" width="50" height="50" alt="go"/>
-      <br>Go
     </td>
   </tr>
 
@@ -69,94 +51,71 @@ Here are some ideas to get you started:
       <br>PHP
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="c" />
-      <br>C
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="cpp" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="cs" />
-      <br>C#
-    </td>
-    <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="js" />
       <br>Java Script
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="java" />
-      <br>Java
+        <img src="https://skillicons.dev/icons?i=jquery" width="65" height="65" alt="jquery" />
+      <br>JQuery
     </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="git" />
-      <br>Git
-    </td>
-        <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48" height="48" alt="restapi" />
       <br>REST API
     </td>
-            <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
       <br>MySql
     </td>
   </tr>
 
-   <tr>
+  <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="wordpress" />
-      <br>Wordpress
-    </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="laravel" />
-      <br>Laravel
-    </td>
-            <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="nextjs" />
-      <br>Next.js
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="dotnet" />
-      <br>ASP.NET
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="flutter" />
-      <br>Flutter
-    </td>
-     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=django" width="40" height="40" alt="django" />
-      <br>Django
+        <img src="https://skillicons.dev/icons?i=phpstorm" width="48" height="48" alt="vscode" />
+      <br>PHP Storm
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="vscode" />
       <br>VS Code
     </td>
     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="github" />
       <br>Github
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=webpack" width="48" height="48" alt="webpack" />
+      <br>Webpack
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="wordpress" />
+      <br>Wordpress
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="laravel" />
+      <br>Laravel
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="nextjs" />
+      <br>Next.js
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="postman" />
       <br>Postman
     </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="aws" />
+      <br>AWS
+    </td>
   </tr>
- <tr>
- </tr>
 </table>
 
-<!--
-<p align="left">
-  <a style="padding-right:10px" href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> 
-</p>-->
-
-<!--[![Sabbir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devsabbirhossain&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/devsabbirhossain/)-->
+<!-- [![Sabbir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devsabbirhossain&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/devsabbirhossain/) -->
 
 <br/>
 <br/>
