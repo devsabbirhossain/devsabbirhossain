@@ -10,7 +10,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [WC Category Showcase](https://wordpress.org/plugins/wc-category-showcase/)
+- 🔭 I’m currently working on [Advance Notification Bar](pluginever.com/plugins/advance-notification-bar/)
 - 🌱 I’m currently learning **Python and Next.js**
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
