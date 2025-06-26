@@ -10,7 +10,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [Advance Notification Bar](https://pluginever.com/plugins/advance-notification-bar/)
+- 🔭 I’m currently working on [Magnet Blocks](https://wordpress.org/plugins/magnet-blocks/)
 - 🌱 I’m currently learning **Python and Next.js**
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
