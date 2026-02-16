@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I+am+Sabbir+Hossain;I+am+expert+in+WordPress+DEVELOPMENT;I+have+experience+>+3+YEARS+IN+PROGRAMMING;)](https://git.io/typing-svg)
 
-<h3 align="center">A passionate Full Time WordPress Backend Developer, Laravel Developer, and Part-Time Frontend Developer.</h3>
+<h3 align="center">A passionate Full Stack Software Engineer, Laravel Developer, and Part-Time Frontend Developer.</h3>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
